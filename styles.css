@@ -1,0 +1,26 @@
+.container {
+    width: 600px;
+    height: 600px;
+    border: 1px solid black;
+    text-align: left;
+}
+
+.center-text {
+    text-align: center;
+}
+
+form {
+    padding-left: 180px;
+}
+
+.submit {
+    padding-left: 100px;
+}
+
+.error {
+    color: red;
+}
+
+.result {
+    color: blue;
+}
